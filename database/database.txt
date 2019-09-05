@@ -1,0 +1,11 @@
+CREATE TABLE score_181(PASSWORD CHAR(4),
+			Sid varchar(10),
+			Sname VARCHAR(14),
+			Syear CHAR(10),
+			Sterm INT,
+			Cname VARCHAR(36),
+			Ctype VARCHAR(20),
+			Eway VARCHAR(10),
+			Score INT);
+
+#  DESC  score_181;
